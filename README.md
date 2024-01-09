@@ -1,2 +1,2 @@
 # Pharmacie la Noblesse NBL-SYS
-Template utilisé pour la conception du logiciel NBL-SYS
+Système de Gestion des Données pour la Noblesse RDC 
